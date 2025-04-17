@@ -34,7 +34,14 @@ public: // getters / setters
         cout << "Método MD2" << endl; 
     }
 
+<<<<<<< HEAD
     void MD3() {
         cout << "Método MD3" << endl;
     }
 };
+=======
+    void MD4() {
+    cout << "Método MD4" << endl;
+    }
+};
+>>>>>>> 5191e3dda3be03a94494c7d80a917787c3f406c4
