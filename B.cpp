@@ -32,4 +32,8 @@ public: // getters / setters
     void MB2() {
         cout << "Método MB2" << endl;
     }
+
+    void MB3() {
+        cout << "Método MB3" << endl;
+    }
 };

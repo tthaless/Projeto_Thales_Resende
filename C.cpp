@@ -25,9 +25,13 @@ public: // getters / setters
 
     // Métodos
     void MC1() { 
-        cout << "MC1" << endl; 
+        cout << "Método MC1" << endl; 
     }
     void MC2() { 
-        cout << "MC2" << endl; 
+        cout << "Método MC2" << endl; 
+    }
+
+    void MC3() {
+        cout << "Método MC3" << endl;
     }
 }; 
